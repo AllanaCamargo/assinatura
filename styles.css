@@ -29,12 +29,12 @@
 .container {
     height: 100vh;
     display: grid;
-    grid-template-columns: 40% 40%;
+    grid-template-columns: 50% 40%;
 }
 
 .container__botao{
 background-color: var(--botao-azul);
-border-radius: 5px;
+border-radius: 3px;
 padding: 1em;
 color: var(--branco-principal);
 display: block;
